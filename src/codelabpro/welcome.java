@@ -8,7 +8,7 @@ public class welcome {
 		System.out.println(20+20);
 		System.out.println(20*20);
 		System.out.println("having fun");
-		
+		System.out.println("Hurray");
 		
 		
 		

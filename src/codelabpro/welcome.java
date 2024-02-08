@@ -1,0 +1,19 @@
+package codelabpro;
+
+public class welcome {
+
+	public static void main(String[] args) {
+		
+		System.out.println("welcome to my training session");
+		System.out.println(20+20);
+		System.out.println(20*20);
+		System.out.println("having fun");
+		
+		
+		
+		
+		
+		
+	}
+
+}

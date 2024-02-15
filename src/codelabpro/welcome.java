@@ -10,6 +10,9 @@ public class welcome {
 		System.out.println("having fun");
 		System.out.println("Hurray");
 	System.out.println("information");
+	
+	System.out.println('testing manual build on jenkings');
+	
 		
 		
 		

@@ -18,6 +18,8 @@ public class welcome {
 		
 
 	System.out.println("it's my second attempt");
+	
+	System.out.println("testing pol SCM");
 		
 		
 		
